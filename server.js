@@ -2,6 +2,7 @@ const express = require('express');
 const http = require('http');
 const path = require('path');
 const socketIo = require('socket.io');
+const { join } = require('./users');
 
 const PORT = process.env.PORT || 3000;
 

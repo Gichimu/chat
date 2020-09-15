@@ -85,7 +85,7 @@ a {
 .alert {
     
     font-size: 0.8rem; 
-    max-width: 50%;
+    /* max-width: 50%; */
     display: inline-block;
     overflow-wrap: break-word;
 }
@@ -114,5 +114,5 @@ a {
 }
 
 /* .chat-right {
-    text-align: right;
+    margin-right: 0;
 } */
