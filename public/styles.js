@@ -7,8 +7,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Owner\Documents\projects\chat\ng-src\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"8jWO");
-module.exports = __webpack_require__(/*! C:\Users\Owner\Documents\projects\chat\ng-src\src\styles.css */"OmL/");
+__webpack_require__(/*! C:\Users\Owner\documents\projects\chat\ng-src\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"8jWO");
+module.exports = __webpack_require__(/*! C:\Users\Owner\documents\projects\chat\ng-src\src\styles.css */"OmL/");
 
 
 /***/ }),
